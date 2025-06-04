@@ -1,4 +1,4 @@
- # Book Manager
+ # Book Management
  A simple coommand-line application for managing books, written in Go.
 
 

@@ -30,3 +30,4 @@ Each book contains:
 
 ## Capacity
   the application supports up to 100 books(fixed-size-array)
+  it is temprory. maybe it will be change.
